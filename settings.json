@@ -1,0 +1,51 @@
+{
+  "bot-account": {
+    "username": "Herobrine", 
+    "password": "",
+    "type": "mojang"
+  },
+
+  "server": {
+    "ip": "NIGHTLIGHT-ayM7.aternos.me", 
+    "port": 11223,   
+    "version": "1.12.1"   
+  },
+  
+  "position": {
+    "enabled": false,
+    "x": 0,
+    "y": 0,
+    "z": 0
+  },
+
+  "utils": {
+    "auto-auth": {
+      "enabled": false,
+      "password": ""
+    },
+
+    "anti-afk": {
+      "enabled": true,
+      "sneak": true
+    },
+
+    "chat-messages": {
+      "enabled": true,
+      "repeat": true,
+      "repeat-delay": 300,
+
+      "messages": [
+        "you cant hide...",
+        "i see you :)",
+        "turn around",
+        "you cant run",
+        "i know you are there",
+        "im always watching"
+      ]
+    },
+
+    "chat-log": true,
+    "auto-reconnect": true,
+    "auto-recconect-delay": 5000
+  }
+}
