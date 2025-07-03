@@ -1,6 +1,6 @@
 {
   "bot-account": {
-    "username": "Herobrine", 
+    "username": "NightLightAFK", 
     "password": "",
     "type": "mojang"
   },
@@ -32,15 +32,12 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 300,
+      "repeat-delay": 150,
 
       "messages": [
-        "you cant hide...",
-        "i see you :)",
-        "turn around",
-        "you cant run",
-        "i know you are there",
-        "im always watching"
+        "Join the Discord!",
+        "I Love this SMP",
+        "NightLight is the Best SMP"
       ]
     },
 
